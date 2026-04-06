@@ -1,4 +1,3 @@
-markdown
 # Turbo Tetris
 
 A simple **Tetris** implementation written in **x86 Assembly** for the **DOS operating system**. This project demonstrates low-level programming techniques and classic DOS graphics and sound handling using Turbo Assembler.
